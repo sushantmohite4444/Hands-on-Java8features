@@ -1,0 +1,19 @@
+Lambda expressions
+A concise way to represent a method interface using an expression. Lambda expressions allow you to treat code as data or functionality as a method argument. 
+
+Stream API
+A cornerstone of Java 8, the Stream API allows developers to process data in a functional style. It enables operations like filtering, mapping, and reducing. 
+
+Date and Time API
+Includes enhancements for more efficient date and time handling. It adds immutable, thread-safe classes such as LocalDate and ZonedDateTime. 
+
+Functional interfaces
+Enable the use of lambda expressions and method references. They provide a concise way to implement single abstract method interfaces. 
+
+Method references
+A compact and easy form of lambda expression. You can replace your lambda expression with method reference when you are using lambda expression to just refer a method. 
+forEach() method
+Provides a concise and expressive way to iterate over elements and perform an action for each element. 
+
+Default and static methods in interfaces
+Before Java 8, interfaces could only contain abstract methods. 
